@@ -1,4 +1,4 @@
-module github.com/second-state/WasmEdge-go
+module github.com/chairwa/WasmEdge-go-tflite
 
 go 1.16
 
